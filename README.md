@@ -6,4 +6,17 @@ During the design phase, I faced some challenges in finding the right color sche
 
 During the development phase, I encountered some technical difficulties with coding certain features, such as a contact form and responsive design for mobile devices. To overcome these challenges, I utilized online resources such as Stack Overflow and reached out to other developers for advice. I also spent extra time testing the website on different devices and making adjustments as necessary.
 
-Overall, creating my web portfolio taught me a lot about the importance of planning, design, and development. I learned that it's important to seek feedback and utilize online resources when facing challenges. Finally, the list of assets and resources I used for my portfolio includes the Bootstrap framework for responsive design, Google Fonts for typography, and Unsplash for images. I also used various plugins and libraries for features such as a contact form and social media icons.
+Overall, creating my web portfolio taught me a lot about the importance of planning, design, and development. I learned that it's important to seek feedback and utilize online resources when facing challenges. Finally, the list of assets and resources I used for my portfolio includes the Bootstrap framework for responsive design, Google Fonts for typography, and Freepik for images. I also used various plugins and libraries for features such as a contact form and social media icons.
+
+
+Resources:
+
+Freepik images:
+
+https://www.freepik.com/free-vector/hand-drawn-rebranding-illustration_29765805.htm#page=3&query=graphic%20designer&position=22&from_view=search&track=ais
+
+https://www.freepik.com/free-vector/vector-vintage-camera_3122812.htm#query=photography&position=6&from_view=search&track=sph
+
+https://www.freepik.com/free-vector/flat-clapperboard-icon_838802.htm#page=2&query=videography&position=47&from_view=search&track=sph
+
+https://www.freepik.com/free-vector/hand-drawn-rebranding-illustration_29765805.htm#page=3&query=graphic%20designer&position=22&from_view=search&track=ais
