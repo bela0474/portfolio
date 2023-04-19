@@ -1,6 +1,6 @@
 body {
     margin:0;
-    text-align: center;
+/*     text-align: center; */
     color: #40514e;
 
 }
@@ -58,6 +58,7 @@ h3 {
     font-size: 1.3rem;
     margin: 10px 20px;
     text-decoration: none;
+    text-align: center;
 }
 
 .footer-link:hover {
@@ -73,15 +74,20 @@ h3 {
     background-color: #E4F9F5;
     padding-top: 10%;
     position: relative;
+    text-align: center;
+
 }
 
 .middle-container {
+    text-align: center;
     padding: 50px 0;
 }
 
 .bottom-container {
     background-color: #66bfbf;
     padding:30px 10px;
+    text-align: center;
+
 }
 
 .hr{
@@ -187,6 +193,7 @@ h3 {
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
+    text-align: center;
   }
   
   .btn:hover {
